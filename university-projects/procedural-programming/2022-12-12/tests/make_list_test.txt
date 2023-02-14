@@ -1,5 +1,0 @@
-tests/make_list_test_file_1.txt
-tests/make_list_test_file_2.txt
-tests/make_list_test_file_3.txt
-tests/make_list_test_file_4.txt
-my_data_file.txt
